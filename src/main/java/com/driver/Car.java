@@ -7,6 +7,10 @@ public class Car extends Vehicle {
     private int gears;
     private boolean isManual;
 
+    public boolean isManual() {
+        return isManual;
+    }
+
     public int getWheels() {
         return wheels;
     }
