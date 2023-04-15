@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="vehicles-solution" />
-        <module name="java-assignment-testing-solution" />
         <module name="vehicles-driver-code" />
+        <module name="vehicles-DESMOND414" />
+        <module name="java-assignment-testing-solution" />
       </profile>
     </annotationProcessing>
   </component>
